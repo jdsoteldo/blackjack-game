@@ -14,4 +14,5 @@ python3 main.py
 and start playing blackjack!
 
 if you like you can follow me on twitter or something 
-@jdsoteldo
+[My twitter](https://www.twitter.com/jdsoteldo)
+
